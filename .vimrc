@@ -18,3 +18,6 @@ let mapleader = ","
 
 nmap <C-l> gt
 nmap <C-h> gT
+
+" ctrlp
+set runtimepath^=~/.vim/bundle/ctrlp.vim
